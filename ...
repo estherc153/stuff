@@ -1,0 +1,50 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+
+
+            char letter = 'k';
+            String stuff = "Stuff";
+            boolean esther = true;
+            int age = 13;
+            float random = 152.37f;
+            String u = "Hi";
+            String name = "Esther";
+
+        // System.out.println(stuff + u + age);
+/**
+        boolean x = true;
+        while (x = true)
+        {
+            System.out.println("Hello World");
+        }
+
+        int i = 15;
+
+
+
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+
+*/
+
+        int time = 14;
+        if (time < 12) {
+            System.out.println("Good morning, " + name);
+        } else if (time < 18) {
+            System.out.println("Good afternoon, " + name);
+        } else {
+            System.out.println("Good evening, " + name);
+        }
+// Outputs "Good day."
+
+
+
+
+
+
+    }
+}
